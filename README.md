@@ -1,5 +1,5 @@
-# data-analysis
-This repository contains some data analysis
+# Data Analysis
+This repository contains some explatory data analysis and base model implementations
 
 * COVID 19 -> [Analysis](Covid19/)
 
