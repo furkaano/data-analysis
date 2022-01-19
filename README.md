@@ -1,4 +1,4 @@
-# Data Analysis
+# Text Data Analysis
 This repository contains explatory data analysis and base model implementations
 
 * COVID 19 -> [Analysis](Covid19/)
