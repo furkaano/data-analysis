@@ -13,7 +13,7 @@ This is a dataset for binary sentiment classification containing substantially m
 
 This is a dataset that contains reviews in Turkish language. 
 
-* Turkish_Text_Categorization -> [Analysis]Turkish_Text_Categorization/)
+* Turkish_Text_Categorization -> [Analysis](Turkish_Text_Categorization/)
 
 This is a Turkish_Text_Categorization dataset contains some area to classify.
 
